@@ -1,0 +1,21 @@
+title;description;url;image;url2;exe
+やることリスト;シンプルで使いやすいウェブアプリで日ごろのタスクをこなしましょう（^^）;https://github.com/ten87tak/my-todo-webapp;1.png;https://ten87tak-my-todo-webapp-web-5micem.streamlit.app/;True
+アプサイト（このサイト）;プロジェクトとアプリを紹介している、１から１０まで Python で作成されたウェブサイト。;https://github.com/ten87tak/my-portfolio-website;2.png;https://ten87tak-my-portfolio-website-home-phue3k.streamlit.app/;False
+PDF テンプレ・ジェネレーター;ヘッダーやフッター、ページ数などを指定して、ノートやテンプレートとして使う PDF ファイルを作成します。;https://github.com/ten87tak/my-PDF-generator;3.png;CLI only;False
+PDF インボイス・ジェネレーター;Excel からデータを読み取って、PDF 形式のインボイスを自動的に作成します   (^-^)b;https://github.com/ten87tak/my-excel_pdf-invoice-generator;4.png;CLI only;False
+明るいニュースのサイト;News API からデータを取得して、感情分析により明るいニュースだけを抽出するアプリ (^▽^);None;5.png;None;False
+Weather API;Python と Flask で作成された REST API で、いろいろな都市の過去の気象データを提供します (*‘∀‘);None;6.png;None;False
+ダウンロードフォルダクリーナー;ダウンロードフォルダに古いファイルがあれば削除し、常にフォルダをスッキリさせておくことができます。;None;7.png;None;False
+コンサート・スクレーパー;好きなバンドのウェブサイトをチェックして、新しいコンサートがあるとメールで知らせてくれます (^^♪;None;8.png;None;False
+チャットボットお手伝い君;指定したトピックの質問に答えてくれる、賢いお手伝い君！;None;9.png;None;False
+チャットボットのお友達;人間の話し相手になってくれる Facebook API で作成されたチャットボット (^^);None;10.png;None;False
+ウェブカメラ・モーションディテクター;PC のウェブカメラの視界に新しいものが映るとメールで知らせてくれるアプリ (･ω･ﾉ)ﾉ！;None;11.png;None;False
+タイピング・アナライザー;１つのセッションの間に PC のキーボードで最も入力された言葉を教えてくれます。;None;12.png;None;False
+インターネット速度分析;数秒ごとのインターネット速度を記録して、その値をブラウザで視覚的に表示します (´・∀・｀)ﾍｰ;None;13.png;None;False
+データ・モニタリング;特定のウェブサイトをモニタリングして、定期的にデータをリモートサーバーに記録します。;None;14.png;None;False
+データ・ビジュアリゼーション;データモニタリングアプリで集めたデータを可視化します。;None;15.png;None;False
+天気予報;あらゆる都市の５日先までの天気予報を視覚表示するデータ・ウェブアプリです！(*^^*);None;16.png;None;False
+学生管理システム;SQL データベースをバックエンドに使った、大学生のデータを管理するデスクトップ PyQt6 GUI アプリです ^ ^;None;17.png;None;False
+学校管理システム;SQL データベースをバックエンドに使った、複雑な大学のデータを管理するデスクトップ PyQt6 GUI アプリです (´・∀・｀);None;18.png;None;False
+レストランメニュー;レストランのメニューと空席が分かる Django で作られたウェブアプリ。;None;19.png;None;False
+オンラインストア;注文や販売管理ができる Django で作られたオンラインショップ。;None;20.png;None;False
