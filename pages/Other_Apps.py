@@ -5,22 +5,16 @@ st.set_page_config(layout="wide")
 column_1, column_2 = st.columns(2)
 
 with column_1:
-    st.header("GEOMETRY GAME")
+    st.header("ジオメトリ・ゲーム")
 
-    st.subheader("This is a CLI game where a player will be given random "
-                 "coordinates that make two points, which produces a rectangle.")
+    st.subheader("ランダムに生成された２つの座標が作り出す長方形の中に、任意に選んだ座標が"
+                 "入っているかどうかを当てるコマンドラインで操作するゲームです。")
 
-    st.subheader("The player is then asked to type in a set of X and Y coordinates "
-                 "which they think is located within that rectangle. Also, the "
-                 "player will be asked to enter an area they guess. ")
+    st.subheader("プロンプトが表示されたら、画面に従って任意の X 座標と Y 座標を入力します。"
+                 "また、面積も推測します。")
 
-    st.subheader("Finally, the program draws the rectangle and the guessed "
-                 "point in the graphic window.")
+    st.subheader("最後にウィンドウが表示され、その中にその長方形と任意に選んだ座標点を表示します。")
 
-    # content = """
-    #
-    #     """
-    # st.info(content)
 
 with column_2:
     st.image("images/OOP_App1.PNG")
